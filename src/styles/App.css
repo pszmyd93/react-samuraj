@@ -1,0 +1,30 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 90vw;
+  min-height: 100vh;
+  background-color: #aaa;
+}
+
+.header {
+  flex-basis: 30vh;
+}
+
+.mainContent {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+}
+
+.navigation {
+  flex-basis: 30%;
+}
+
+.currentPage {
+  flex-grow: 1;
+}
+
+.footer {
+  flex-basis: 15vh;
+}
