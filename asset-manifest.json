@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-samuraj/static/css/main.7647fa0e.chunk.css",
+    "main.js": "/react-samuraj/static/js/main.56533dc7.chunk.js",
+    "main.js.map": "/react-samuraj/static/js/main.56533dc7.chunk.js.map",
+    "runtime-main.js": "/react-samuraj/static/js/runtime-main.6073d0f5.js",
+    "runtime-main.js.map": "/react-samuraj/static/js/runtime-main.6073d0f5.js.map",
+    "static/js/2.a56a0cec.chunk.js": "/react-samuraj/static/js/2.a56a0cec.chunk.js",
+    "static/js/2.a56a0cec.chunk.js.map": "/react-samuraj/static/js/2.a56a0cec.chunk.js.map",
+    "index.html": "/react-samuraj/index.html",
+    "static/css/main.7647fa0e.chunk.css.map": "/react-samuraj/static/css/main.7647fa0e.chunk.css.map",
+    "static/js/2.a56a0cec.chunk.js.LICENSE.txt": "/react-samuraj/static/js/2.a56a0cec.chunk.js.LICENSE.txt",
+    "static/media/header1.e210d623.jpg": "/react-samuraj/static/media/header1.e210d623.jpg",
+    "static/media/header2.26d6661b.jpg": "/react-samuraj/static/media/header2.26d6661b.jpg",
+    "static/media/header3.1b8172a4.jpg": "/react-samuraj/static/media/header3.1b8172a4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6073d0f5.js",
+    "static/js/2.a56a0cec.chunk.js",
+    "static/css/main.7647fa0e.chunk.css",
+    "static/js/main.56533dc7.chunk.js"
+  ]
+}
